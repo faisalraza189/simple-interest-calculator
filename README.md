@@ -1,4 +1,4 @@
-# Simple Interest Project
+# Simple Interest Calculator Project
 
 This repository contains a shell script that calculates simple interest based on user input for principal, rate, and time.
 
